@@ -1,2 +1,19 @@
 # tailwindcss-responsive-web-page
-# go the terminal give the command yarn serve
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
